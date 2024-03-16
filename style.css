@@ -1,0 +1,32 @@
+body {
+    background-color: gray;
+    margin: 2%;
+    padding: 5%;
+}
+
+h1 {
+    color: white;
+    border: 1px solid white;
+    padding: 20px;
+    border-radius: 25px;
+    background-color: burlywood;
+}
+
+h2 {
+    color:blueviolet;
+    border: 1px solid cyan;
+    padding: 40px;
+    border-radius: 15px;
+    background-color:yellowgreen
+}
+
+ul, li, a{
+    font-size: 20px;
+    color: purple;
+    background-color: gold;
+    padding: 10px;
+}
+
+li {
+    list-style-type: none;
+}
